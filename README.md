@@ -1,7 +1,7 @@
+![image](https://github.com/BhavikaPathak/BhavikaPathak/assets/124080460/1100ac44-8668-43fc-85ef-98eb54e41179)
+
 <h1 align="center">Hi 👋, I'm Bhavika Pathak</h1>
 <h3 align="center">Mechanical Engineering Student | Future Data Scientist 🛠️ | Crafting Data-Driven Solutions for Tomorrow's Challenges 📊</h3>
-
-![image](https://github.com/BhavikaPathak/BhavikaPathak/assets/124080460/1100ac44-8668-43fc-85ef-98eb54e41179)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikapathak&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikapathak" /> </p>
 
