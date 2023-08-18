@@ -1,4 +1,4 @@
-![image](https://github.com/BhavikaPathak/BhavikaPathak/assets/124080460/1100ac44-8668-43fc-85ef-98eb54e41179)
+![image](https://github.com/BhavikaPathak/BhavikaPathak/assets/124080460/25c6e345-3079-435c-bda4-bdf5a7f02532)
 
 <h1 align="center">Hi 👋, I'm Bhavika Pathak</h1>
 <h3 align="center">Mechanical Engineering Student | Future Data Scientist 🛠️ | Crafting Data-Driven Solutions for Tomorrow's Challenges 📊</h3>
